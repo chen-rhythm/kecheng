@@ -15,7 +15,7 @@
 | 周晓冬    | 2014082305 |   https://zxiaodong.github.io |
 | 谷沁清    | 2014082214 |   https://guqinqing.github.io  |
 | 蒋欣怡    | 2014082424 |  https://jessciary.github.io    |
-| 谷沁清    | 2014082214     https://guqinqing.github.io    |
+| 谷沁清    | 2014082214 |    https://guqinqing.github.io    |
 | 汪秋凌    | 2014082235 |   https://QiulingWang1995.github.io  |
 | 徐建聪    | 2014082413 |   https://xuxiaocongdiao.github.io |
 | 周恩静    | 2014082334 |   https://YSJSYSGS.github.io/  |
