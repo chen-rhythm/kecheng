@@ -14,7 +14,7 @@
 | 王乾称    | 2014082301 |   https://thewanger.github.io  |
 | 周晓冬    | 2014082305 |   https://zxiaodong.github.io |
 | 谷沁清    | 2014082214 |   https://guqinqing.github.io  |
-| 蒋欣怡    | 2014082424 |  https://jessciary.github.io/    |
+| 蒋欣怡    | 2014082424 |  https://jessciary.github.io/    |
 | 谷沁清    | 2014082214 |    https://guqinqing.github.io    |
 | 汪秋凌    | 2014082235 |   https://QiulingWang1995.github.io  |
 | 徐建聪    | 2014082413 |   https://xuxiaocongdiao.github.io |
