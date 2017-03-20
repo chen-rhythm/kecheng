@@ -19,6 +19,7 @@
 | 汪秋凌    | 2014082235 |   https://QiulingWang1995.github.io  |
 | 徐建聪    | 2014082413 |   https://xuxiaocongdiao.github.io |
 | 周恩静    | 2014082334 |   https://YSJSYSGS.github.io/  |
+| 俞红梅    | 2014082429 |   https://dreadyhm.github.io/  |
 | 夏鲁斌    | 2014082208 |   https://lifeisadream.github.io/  |
 | 张晓娟   | 2014082319 |   https://Cherry19.github.io/  |
 | 许天正    |2014082107  |   https://Gardenia1021.github.io/  |
@@ -35,4 +36,3 @@
 | 车羽琳  | 2014082123|   https://Cheyulinccc.github.io|
 | 柳叶      | 2014082119 | https://liuloveMay.github.io    |                                                                  
 | 周虹月    | 2014082129 | https://Zhouhongyue.github,io   |
-
